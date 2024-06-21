@@ -1,256 +1,1168 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718928265861 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718996459389 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928268982 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996462645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928272096 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996465896 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928275194 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996468998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928278294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996472118 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928281431 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996475263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928284544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996478382 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928287653 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996481504 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928290770 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996484648 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928293896 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996487876 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928297011 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996490998 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928300132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996494122 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928303291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996497260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928306413 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996500419 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928309526 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996503518 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928312641 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996506646 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928315753 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996509762 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928318855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996512867 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928321956 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996515971 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928325056 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996519103 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928328171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996522213 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928331286 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996525378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928334407 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996528686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928337528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996531799 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928340669 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996534906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928343782 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996538059 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928346923 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996541166 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928350041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996544306 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928353181 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996547430 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928356291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996550618 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928359396 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996553748 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928362524 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996556872 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928365628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996560067 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928368741 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996563171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928371858 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996566274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928374977 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996569397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928378106 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996572667 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928381216 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996575771 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928384344 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996578926 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928387455 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996582046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928390572 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996585154 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928393714 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996588289 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718928396820 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718996591407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996594498 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996597597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996600789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996603939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996607068 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996610252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996613440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996616539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996619724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996622859 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996625957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996629288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996632408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996635526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996638645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996641777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996644947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996648059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996651203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996654339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996657492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996660698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996663803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996667040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996670160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996673296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996676392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996679505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996682621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996685743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996688863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996692029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996695183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996698313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996701706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996704830 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996707927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996711039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996714185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996717332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996720454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996723569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996726669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996729795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996732915 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996736042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996739228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996742421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996745540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996748648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996751757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996754853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996757974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996761239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996764632 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996767757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996770905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996774044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996777166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996780266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996783360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996786517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996789635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996792813 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996795975 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996799101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996802219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996805356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996808476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996811590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996814718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996817830 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996820931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996824091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996827225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996830346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996833470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996836571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996839742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996842875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996845971 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996849061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996852168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996855396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996858614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996861805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996864923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996868086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996871201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996874311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996877459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996880566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996883667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996886800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996890003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996893144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996896247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996899358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996902535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996905667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996908793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996911896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996914996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996918091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996921186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996924349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996927471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996930594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996933721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996936842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996939954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996943146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996946511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996949932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996953070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996956368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996959494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996962590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996965793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996968929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996972042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996975139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996978307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996981460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996984590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996987729 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996990835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996994072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718996997239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997000339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997003469 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997006573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997009698 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997012879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997016308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997019506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997022622 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997025739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997028841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997031951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997035087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997038213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997041544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997044654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997047809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997050922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997054049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997057166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997060316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997063444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997066565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+human-designed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+academic-fuji.gl.at.ply.gg:2437 => 127.0.0.1:2437 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718997069683 tunnel running, 2 tunnels registered
 
 
 TUNNELS
